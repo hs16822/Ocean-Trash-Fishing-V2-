@@ -1,0 +1,34 @@
+{
+  "revision": "V7.3.1",
+  "checks_passed": [
+    "rules card uses Ocean Shield name",
+    "old rules title removed",
+    "guide heading name unchanged",
+    "fixed name before negative effects",
+    "no effect does not consume charge",
+    "fixed name while affected",
+    "latest effect only is cleansed",
+    "fixed name with remaining charge",
+    "fixed name when empty",
+    "no browser script errors"
+  ],
+  "count": 10,
+  "browser_errors": [],
+  "state": {
+    "before": "海洋護盾",
+    "noLoss": true,
+    "affected": "海洋護盾",
+    "latest": "wave",
+    "first": {
+      "label": "海洋護盾",
+      "fog": 7,
+      "wave": 0,
+      "charges": 1
+    },
+    "second": {
+      "label": "海洋護盾",
+      "fog": 0,
+      "charges": 0
+    }
+  }
+}
